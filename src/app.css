@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  background-color:rgb(249, 249, 249) ;
+}
+.sun{
+  font-size: 80px;
+  display: flex;
+  padding-left: 80px;
+  padding: 20px;
+  height: 190px;
+}
+.im{
+  font-size: 120px;
+  margin-top:-40px ;  }

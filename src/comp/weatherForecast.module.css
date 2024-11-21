@@ -1,0 +1,20 @@
+.info{
+  display: flex;
+ font-size: 25px;
+ justify-content: center;
+ background-color: rgb(254, 254, 254);
+}
+.dayHead{
+  padding: 20px;
+  margin-left: 20px;
+}
+.days{
+  padding: 60px;
+  line-height: 50px;
+ margin: 20px;
+  border-radius: 20px;
+  text-transform: capitalize;
+  background-color: 150, 150, 35;
+  padding: 22px;
+  box-shadow: 2px 2px 12px 2px rgb(183, 183, 183); 
+}
